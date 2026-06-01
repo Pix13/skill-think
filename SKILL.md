@@ -29,6 +29,8 @@ request from the Quick Reference below.
 Not for: hosted APIs (Claude/OpenAI manage thinking differently), or models without
 a hybrid-thinking chat template.
 
+Big thanks to https://github.com/iChristGit/OpenWebui-Tools
+
 ## The Toggle, Per Backend
 
 Both backends read `chat_template_kwargs.enable_thinking`. They differ on the budget field.
